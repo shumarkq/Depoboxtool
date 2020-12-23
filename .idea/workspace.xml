@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Core/bkp/diag_timeseries_df_medianline.py" line="69" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15be8ac3-574c-4d69-841a-374630c2a47c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Core/Models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1273">
+              <caret line="198" column="58" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2d_cf_Vg&amp;EB.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_Vg&amp;EB.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="2d_cf_Vg&amp;EB&amp;EIM.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_Vg&amp;EB&amp;EIM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="2d_cforest_LAI_Vg&amp;EB.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_cforest_LAI_Vg&amp;EB.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="2d_df_Vg&amp;EB&amp;EIM.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_Vg&amp;EB&amp;EIM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="2d_grass_Vg&amp;EB&amp;EIM.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_Vg&amp;EB&amp;EIM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deciduous</find>
+      <find>themax</find>
+      <find>LAI</find>
+      <find>Vd_m</find>
+      <find>vdmax</find>
+      <find>zr</find>
+      <find>self.par['zr']</find>
+      <find>black</find>
+      <find>dc</find>
+      <find>Slinn</find>
+      <find>wstar</find>
+      <find>self.wstar</find>
+      <find>0.002</find>
+      <find>Uh[i]</find>
+      <find>ms</find>
+      <find>grass</find>
+      <find>Uh</find>
+      <find>cforest</find>
+      <find>time</find>
+      <find>dpbins['</find>
+      <find>newdata.time</find>
+      <find>Vg</find>
+      <find>long</find>
+      <find>log</find>
+      <find>mode</find>
+      <find>bins</find>
+      <find>dim</find>
+      <find>k</find>
+      <find>print</find>
+      <find>CMAQmode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CMAQstd</replace>
+      <replace>,</replace>
+      <replace>self.zr</replace>
+      <replace>Binkowski</replace>
+      <replace>self.par['wstar']</replace>
+      <replace>wstar[i]</replace>
+      <replace>markersize</replace>
+      <replace>cforest</replace>
+      <replace>dforest</replace>
+      <replace>timeinterval</replace>
+      <replace>medians['dpone_</replace>
+      <replace>medians['dpbins_</replace>
+      <replace>newdata.loctime</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Core/boxdemo.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+        <option value="$PROJECT_DIR$/Core/dsad.py" />
+        <option value="$PROJECT_DIR$/Core/eval_plotseries.py" />
+        <option value="$PROJECT_DIR$/Core/diag_plotqq.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_box.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_medianline_subplot.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_medianline.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_box.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_comp.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_comp_main.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_rcomp.py" />
+        <option value="$PROJECT_DIR$/Core/eval_plotqq.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_vdcomp.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_cf.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_df_medianline.py" />
+        <option value="$PROJECT_DIR$/Core/diag_timeseries_grass.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_cf.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_df.py" />
+        <option value="$PROJECT_DIR$/Core/eval_timeseries_grass.py" />
+        <option value="$PROJECT_DIR$/Core/mode_test.py" />
+        <option value="$PROJECT_DIR$/Core/eval_integ.py" />
+        <option value="$PROJECT_DIR$/Core/test.py" />
+        <option value="$PROJECT_DIR$/Core/diag_cf.py" />
+        <option value="$PROJECT_DIR$/Core/Bins.py" />
+        <option value="$PROJECT_DIR$/Core/trashcan/diag_df.py" />
+        <option value="$PROJECT_DIR$/Core/size_distribute.py" />
+        <option value="$PROJECT_DIR$/Core/sensitive_luc.py" />
+        <option value="$PROJECT_DIR$/Core/eval_proc.py" />
+        <option value="$PROJECT_DIR$/Core/diag_df.py" />
+        <option value="$PROJECT_DIR$/Core/sensitest_luc.py" />
+        <option value="$PROJECT_DIR$/Core/diag_binw_dp_grass.py" />
+        <option value="$PROJECT_DIR$/Core/test_vghat" />
+        <option value="$PROJECT_DIR$/Core/eval_grass.py" />
+        <option value="$PROJECT_DIR$/Core/eval_cf.py" />
+        <option value="$PROJECT_DIR$/Core/eval_df.py" />
+        <option value="$PROJECT_DIR$/Core/sizesens_methods_compare.py" />
+        <option value="$PROJECT_DIR$/Core/variance_abs_grass.py" />
+        <option value="$PROJECT_DIR$/Core/functions.py" />
+        <option value="$PROJECT_DIR$/Core/test_smalldp.py" />
+        <option value="$PROJECT_DIR$/Core/sizesens_wstar_ustar_luc.py" />
+        <option value="$PROJECT_DIR$/Core/variance_grass.py" />
+        <option value="$PROJECT_DIR$/Core/variance_cf.py" />
+        <option value="$PROJECT_DIR$/Core/variance_df.py" />
+        <option value="$PROJECT_DIR$/Core/imp_cf.py" />
+        <option value="$PROJECT_DIR$/Core/variance_imp.py" />
+        <option value="$PROJECT_DIR$/Core/diag_imp_df.py" />
+        <option value="$PROJECT_DIR$/Core/eval_luc.py" />
+        <option value="$PROJECT_DIR$/Core/variance_lai.py" />
+        <option value="$PROJECT_DIR$/Core/Models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1432" />
+    <option name="y" value="-51" />
+    <option name="width" value="1221" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Deposition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deposition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deposition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deposition" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deposition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deposition" type="462c0819:PsiDirectoryNode" />
+              <item name="Figs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deposition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deposition" type="462c0819:PsiDirectoryNode" />
+              <item name="Figs" type="462c0819:PsiDirectoryNode" />
+              <item name="ModevsBw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qshu\Projects\EPA\Deposition\Figs\ModevsBw_LAI" />
+      <recent name="C:\Users\qshu\Projects\EPA\Deposition\Figs\ModevsBw" />
+      <recent name="C:\Users\qshu\Projects\EPA\Deposition\Figs\olds" />
+      <recent name="C:\Users\qshu\Projects\EPA\Deposition\Figs" />
+      <recent name="C:\Users\qshu\Projects\EPA\Deposition\Figs\ready" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.variance_lai">
+    <configuration name="diag_imp_df" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AMDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/diag_imp_df.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="variance_cf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AMDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/variance_cf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="variance_df" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AMDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/variance_df.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="variance_grass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AMDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/variance_grass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="variance_lai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AMDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/variance_lai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.variance_df" />
+      <item itemvalue="Python.variance_lai" />
+      <item itemvalue="Python.diag_imp_df" />
+      <item itemvalue="Python.variance_cf" />
+      <item itemvalue="Python.variance_grass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.variance_lai" />
+        <item itemvalue="Python.variance_grass" />
+        <item itemvalue="Python.variance_cf" />
+        <item itemvalue="Python.variance_df" />
+        <item itemvalue="Python.diag_imp_df" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15be8ac3-574c-4d69-841a-374630c2a47c" name="Default" comment="" />
+      <created>1529690451628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529690451628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1272" y="-62" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16754478" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info id="Run" order="3" weight="0.29610115" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32985386" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32883817" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.26880813" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Run" order="3" weight="0.28273973" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32883817" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Figs/Diag_binw_dp_grass.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Eval_cf.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Eval_df.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Sens_vd_cf.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Diag_imp_df.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Eval_grass.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/Diag_imp_df_monodisperse.png" />
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/Eval_cf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/diag_imp_df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="111" column="65" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/eval_cf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/Diag_imp_df.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_dforest_impc1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_dforest_impc200.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_dforest_impc500.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/variance_df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/boxdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_cforest_LAI.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/eval_luc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="228" column="8" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/variance_imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="66" column="52" selection-start-line="66" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/variance_grass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/variance_cf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="31" column="14" selection-start-line="31" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_grass_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_grass_LAI.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/Diag_imp_df_monodisperse.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/olds/formanuscript/2d_dforest_LAI.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/variance_lai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_cforest_LAI_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_cforest_LAI_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_dforest_LAI_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_dforest_LAI_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_grass_LAI_EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_grass_LAI_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_grass_LAI_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_dforest_LAI_Vg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw_LAI/2d_cforest_LAI_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_Vg&amp;EB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_cf_Vg&amp;EB&amp;EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_df_Vg&amp;EB&amp;EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figs/ModevsBw/2d_grass_Vg&amp;EB&amp;EIM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="198" column="58" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
